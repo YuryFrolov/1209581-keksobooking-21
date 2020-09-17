@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Юрий Фролов](https://up.htmlacademy.ru/javascript/21/user/1209581).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Кислый](https://up.htmlacademy.ru/javascript/21/user/1118577).
 
 ---
 
